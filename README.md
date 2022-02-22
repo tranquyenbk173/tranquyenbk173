@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- My name is Quyen Tran, I am a graduated student.
+- 🔭 I’m currently working on Machine Leanring, Mathematics and Statistic
+- 🌱 Now I'm interested in Continual learning.
+- 📫 Reach me: tranquyenhd17@gmail.com
+
 <!--
 **tranquyenbk173/tranquyenbk173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
