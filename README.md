@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Quyen Tran, I am a graduated student.
-- 🔭 I’m currently working on Machine Leanring, Mathematics and Statistic
+- 🔭 I’m currently working on Machine Leanring
 - 🌱 Now I'm interested in Continual learning.
 - 📫 Reach me: tranquyenhd17@gmail.com
 
