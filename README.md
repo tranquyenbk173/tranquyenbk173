@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Quyen Tran, I am a graduate student.
+- My name is Quyen Tran, 
 - 🔭 I’m currently working at VinAI Research as a Research Resident. My research now mainly focuses on Continual Learning and Generative Models.
 - 📫 Reach me: tranquyenhd17@gmail.com
 
