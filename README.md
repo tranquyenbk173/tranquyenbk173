@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- My name is Quyen Tran, I am a graduated student.
-- 🔭 I’m currently working on Machine Leanring
-- 🌱 Now I'm interested in Continual learning.
+- My name is Quyen Tran, I am a graduate student.
+- 🔭 I’m currently working at VinAI Research as a Research Resident. My research now mainly focuses on Continual Learning and Generative Models.
 - 📫 Reach me: tranquyenhd17@gmail.com
 
 <!--
