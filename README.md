@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My name is Quyen Tran, 
-- 🔭 I’m currently working at VinAI Research as a Research Resident. My research primarily centers on *Continual Learning, Transfer Learning, and Robust Machine Learning*, with the goal of developing ***truly intelligent and reliable systems***. These systems are expected to actively <u>accumulate and consolidate knowledge</u> over time while also being <u>safe, private, and trustworthy</u>.
+- 🌱 I’m currently working at VinAI Research as a Research Resident. My research primarily centers on *Continual Learning, Transfer Learning, and Robust Machine Learning*, with the goal of developing ***truly intelligent and reliable systems***. These systems are expected to actively <u>accumulate and consolidate knowledge</u> over time while also being <u>safe, private, and trustworthy</u>.
 - 📫 Reach me: tranquyenhd17@gmail.com
 - 🔭 Homepage: tranquyenbk173.github.io
 
