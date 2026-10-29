@@ -18,3 +18,5 @@
 🎬 My favorite YouTube video recently: [watch here](https://youtu.be/GrFiIFFMUDg?si=CR904YgRBhuqhKLZ)
 
 ⚗️✨  *Sending a little luck your way today!*
+
+<img width="1600" height="450" alt="image" src="https://github.com/user-attachments/assets/4890ee21-9d3d-4b33-bf94-046456262354" />
