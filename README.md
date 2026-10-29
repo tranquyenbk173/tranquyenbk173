@@ -15,6 +15,6 @@
 
 ---
 
-🎬 My favorite YouTube video recently: [watch here](https://www.youtube.com/watch?v=oa_n1QWx0bE&t=1508s)
+🎬 My favorite YouTube video recently: [watch here](https://youtu.be/GrFiIFFMUDg?si=CR904YgRBhuqhKLZ)
 
 ⚗️✨  *Sending a little luck your way today!*
